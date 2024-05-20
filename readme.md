@@ -39,12 +39,7 @@ Getting Started
 
 ## Preview
 -----
-You can see a live preview of the application [here](https://darioernesto-roca.github.io/RaceSimulator/) or check out the video below:
-
-<video width="600" controls>
-  <source src="race-simulator-preview.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+You can see a live preview of the application [here](https://darioernesto-roca.github.io/RaceSimulator/)
 
 Usage
 -----
